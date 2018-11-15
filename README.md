@@ -7,4 +7,4 @@ After completing this assignment, I have furthered my knowledge in the basics of
 Using the google dev tool was a new learning experience, but it has taught me to navigate the different functionalities in a site. 
 
 
-You can see my final product at: 
+You can see my final product at: https://kdelacr91095.github.io/google-homepage/
